@@ -3,7 +3,7 @@
 (function() {
 
   module.exports = function valArr(arr, len) {
-    let valid = false;
+    var valid = false;
     valid = Array.isArray(arr);
     if (typeof len === 'number') {
       valid = arr.length === len;

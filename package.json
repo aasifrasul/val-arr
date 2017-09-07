@@ -1,6 +1,6 @@
 {
   "name": "val-arr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple tool to validate an actual Array.",
   "main": "index.js",
   "scripts": {
